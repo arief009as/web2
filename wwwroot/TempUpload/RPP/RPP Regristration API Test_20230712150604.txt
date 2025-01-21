@@ -1,0 +1,24 @@
+{
+  "outletCode": "1291000",
+  "poNo": "09479865",
+  "vendorInvoiceNo": "B0Z0I2",
+  "grReceivedDate": "2022-03-31",
+  "deliveryDate": "2022-03-31",
+  "dealerRequest": "C",
+  "claimCode": "B",
+  "notes": "Test API",
+  "cancelReport": "testing.pdf",
+  "pkbBooking": "testing.pdf",
+  "materials": [
+    {
+      "materialNo": "0888083576",
+      "rppQuantity": 2
+    },
+    {
+      "materialNo": "0888083608",
+      "rppQuantity": 2
+    }
+  ],
+  "rppdmsNo": "RPP-Test",
+  "vinNo": "123"
+}
